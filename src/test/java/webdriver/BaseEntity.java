@@ -31,6 +31,10 @@ public abstract class BaseEntity {
     // ==============================================================================================
     // Methods for logging
 
+    public void mergeAutomatic2() {
+
+    }
+
     /**
      * Logging a step number.
      *
