@@ -187,5 +187,4 @@ public abstract class BaseEntity {
     public void mergeAutomatic3() {
         String yaNeZabilTochkySZapyatoi = "mana-mana";
     }
-
 }
